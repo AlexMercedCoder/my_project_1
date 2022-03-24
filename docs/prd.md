@@ -5,7 +5,7 @@
 **Summary**
 | Field | Detail |
 |-------|--------|
-| Project Name | {Put Project Name Here}|
+| Project Name | This is My Project |
 | Description | {One sentence summarizing what is the app and why it matters} |
 | Developers | {List of Developers} |
 | Live Website | {website of deployed application} |
